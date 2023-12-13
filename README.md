@@ -7,4 +7,4 @@
 
 ![introduction](./assets/introduction.png)
 
-### Code and dataset are coming soon, please stay tuned!
+### Code is coming soon, please stay tuned!
