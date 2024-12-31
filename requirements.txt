@@ -1,0 +1,9 @@
+torch==1.12.0
+pytorch3d==0.7.4
+numpy==1.23.5
+trimesh==3.23.5
+scipy
+PIL
+opencv-python
+segment_anything
+pycolmap
